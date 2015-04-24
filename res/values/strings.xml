@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CapSenderReceiver</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_image_1">Image 1</string>
+    <string name="card_back_title">Angry Red Android</string>
+    <string name="card_back_description"><![CDATA[Lorem ipsum dolor sit]]></string>
+    
+        <!-- Actions -->
+    <string name="action_toggle">Toggle indicator</string>
+    <string name="action_add_item">Add item</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+    <string name="action_info">Photo info</string>
+    <string name="action_photo">View photo</string>
+    <string name="dateSliderTitle">Selected date</string>
+    
+    <string-array name="coupon_redeem_types">
+        <item>Any</item>
+        <item>Entertainment</item>
+        <item>Medical</item>
+        <item>Games</item>
+        <item>Restaurants</item>
+        <item>Education</item>
+        <item>Travel</item>
+        <item>Commodities</item>
+    </string-array>
+</resources>

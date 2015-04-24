@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.capsenderreceiver.MapFragmentActivity" >
+
+    <item
+        android:id="@+id/checkbox"
+        android:icon="@drawable/ic_navigation_check"
+        android:title="DONE"
+        android:showAsAction="always"
+        android:visible="false"/>
+
+</menu>
